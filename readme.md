@@ -26,4 +26,14 @@ to start with the right side (more specifically, the side of their handedness).
 
 ## Methods
 
+Participants were made to chose how to traverse a rectangular table in order
+to retrieve beers from the opposite corner. The table arrangement and beer
+location were varied, and route of travel was recorded.
 
+### Room setup
+
+### Participants
+
+Participants were recruited at a [frat party, picnic, &c.] in [place]; they were
+offered a beer in return for participation in a one-minute experiment.
+[Demographics].
