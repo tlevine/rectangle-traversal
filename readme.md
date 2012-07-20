@@ -108,17 +108,22 @@ the table. (We ignored any participants who walked through the table.)
 In these expected paths, a participant would first turn one direction (left
 or right), then traverse a leg of the table, then turn the other direction
 and traverse the remaining leg. In order to control for affects of handedness,
-we classified these four routes into two groups.
+we classified these four routes into two route types.
 
 1. Short leg left, long leg right: If the participant turns left first,
     he traverses the short leg first.
 2. Short leg right, long leg left: If the participant turns left first,
     he traverses the long leg first.
 
-These are also diagramed in figure [path types]
+These are also diagramed in figure [path types].
 
 []
 Figure [path types]
+
+I randomly chose one leg from each of these two route types to use for the entire
+study. Only one of these route types was used for each particular participant,
+and the route type was randomly chosen for each trial. The beer and "X" were
+placed according to this route type definition.
 
 #### Handedness
 Participants were asked for their handedness, which was recorded as "left",
