@@ -55,5 +55,16 @@ After giving these directions, the experimentor asked "Do these directions make
 sense?" and clarified any resulting misunderstandings. Once the directions were
 clear, the experimentor told the participants, "Please start."
 
+As the participant traversed the table, the experimentor drew two arrows on a
+form (figure [form]) to indicate whether the participant turned left or right
+at the start of each of the two legs of the trip (from the "X" to the beers
+and from the beers to the "X").
+
+[]
+Figure [form]
+
+After the participant returned the beer, the experimentor asked for the
+participants handedness and then debriefed the participant.
+
 ### Interventions
 
