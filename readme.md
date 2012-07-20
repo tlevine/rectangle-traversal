@@ -206,8 +206,6 @@ people were [more likely to take the short leg?].
 When the target was on the floor, [people were more likely to take the short
 leg regardless of whether it matched handedness].
 
-[These results support the hypothesis?]
-
 ### Discussion
 
 [It appears that both handedness and position of beer affect the choice of
@@ -219,3 +217,12 @@ More immediately, the study results can be used in the design of paths.
 If people prefer to see the endpoint of their travel, landmarks can be
 positioned or obscured in order to direct traffic to whichever path the
 designer intends.
+
+## Conclusion
+
+[These results support the hypothesis?]
+
+## Future research
+
+* Alexander Technique
+* Applications in parks, streets, &c.
