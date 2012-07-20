@@ -39,7 +39,7 @@ corner, and an "X" was drawn on the floor at the opposite corner.
 
 Participants were recruited at a [frat party, picnic, &c.] in [place]; they were
 offered a beer in return for participation in a one-minute experiment.
-[Demographics].
+[Demographics--general age, location, &c.].
 
 ### Procedure
 
