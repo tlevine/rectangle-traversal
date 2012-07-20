@@ -158,3 +158,7 @@ the right of the "X" from the point of view of the participant. When handedness
 was "other", this variable was also "other".
 
 If any of the variables was "other", the trial was ignored.
+
+These data were modeled as a bivariate analysis of variance with two independent
+variables. Since all values of "other" were ignored, all of the veriables had
+exactly two levels.
