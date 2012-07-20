@@ -159,6 +159,7 @@ was "other", this variable was also "other".
 
 If any of the variables was "other", the trial was ignored.
 
-These data were modeled as a bivariate analysis of variance with two independent
-variables. Since all values of "other" were ignored, all of the veriables had
-exactly two levels.
+These four variables were modeled with bivariate analysis of variance with two
+independent variables. Since all values of "other" were ignored, all of the
+variables had exactly two levels.
+
