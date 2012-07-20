@@ -66,5 +66,30 @@ Figure [form]
 After the participant returned the beer, the experimentor asked for the
 participants handedness and then debriefed the participant.
 
-### Interventions
+### Variables
 
+#### Interventions
+Before the participant entered the experiment room, it was configured into
+one of four ways based on two two-level factors:
+
+1. target location and
+2. short leg.
+
+Target location was one of "floor" or "table". Beers were placed on the floor
+in the floor condition and on the table in the table condition.
+
+They also had a specific placement in the horizontal axes. In both conditions,
+the beers were placed within [four inches] of the corner point. In the table
+condition, the beers were placed approximately along the diagonal of the
+rectangular table that included the corner point. In the floor condition, the
+beers were placed [four inches] from the corner in the opposite direction,
+so they were not underneath the table.
+
+Given the table dimensions and the beer placement, participants should have
+been able to see the beers in the floor condition when they were at either
+of the adjacent corners but not when they were at the opposite corner. In the
+table condition, participants should have been able to see the beers from any
+corner.
+the
+
+#### Demographics
