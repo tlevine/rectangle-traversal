@@ -192,12 +192,18 @@ Regarding handedness, [] people were left-handed, [] were right-handed and
 
 []% of legs were something else, including [potential hilarity].
 
-### Model
-
-We ran this model, and got these fit statistics.
+The aforementioned model had [reasonable fit statistics] and yielded [these
+coefficients] (table [foo] and figure [bar]).
 
 [Table with coefficients]
 
 [Plot with observations and fitted values from the model]
 
-When the target was on the table, []
+When the target was on the table and the short leg did not match handedness,
+people were [more likely to take the long leg?].
+When the target was on the table and the short leg did match handedness,
+people were [more likely to take the short leg?].
+When the target was on the floor, [people were more likely to take the short
+leg regardless of whether it matched handedness].
+
+
