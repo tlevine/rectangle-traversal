@@ -32,8 +32,28 @@ location were varied, and route of travel was recorded.
 
 ### Room setup
 
+A long table was placed in the middle of the room. Two beers were placed at one
+corner, and an "X" was drawn on the floor at the opposite corner.
+
 ### Participants
 
 Participants were recruited at a [frat party, picnic, &c.] in [place]; they were
 offered a beer in return for participation in a one-minute experiment.
 [Demographics].
+
+### Procedure
+
+Participants were asked to stand at the X and were given the following directions.
+
+1. Do not start walking until I say "start".
+2. There are two beers at the opposite corner of the table.
+3. When I tell you, walk to the opposite corner of the table, and pick up the beers.
+4. After you pick them up, bring them back here, and put either one on this "X".
+5. You may keep the other beer.
+
+After giving these directions, the experimentor asked "Do these directions make
+sense?" and clarified any resulting misunderstandings. Once the directions were
+clear, the experimentor told the participants, "Please start."
+
+### Interventions
+
