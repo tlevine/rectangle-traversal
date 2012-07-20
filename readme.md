@@ -142,8 +142,8 @@ or back-tracking, the direction was marked as "other", and the trial was ignored
 Data were transformed into four binomial variables:
 
 1. Target location (floor or table)
-2. Direction of first leg of travel (left, right other)
-3. Direction of second leg of travel (left, right or other)
+2. First side of first leg of travel (left, right other)
+3. First side of second leg of travel (short, long or other)
 4. Short leg matches handedness (yes, no or other)
 
 The first of these variables should be straightforward given the earlier
@@ -160,10 +160,10 @@ was "other", this variable was also "other".
 If any of the variables was "other", the trial was ignored.
 
 These four variables were modeled with bivariate analysis of variance with two
-independent variables. Since all values of "other" were ignored, all of the
-variables had exactly two levels.
+main effects and their interaction. Since all values of "other" were ignored,
+all of the variables had exactly two levels.
 
-### Results
+## Results
 
 [Some number of] people participated in the study. Here are some summary
 statistics.
@@ -188,6 +188,16 @@ Regarding handedness, [] people were left-handed, [] were right-handed and
 [] were "other".
 
 []% of legs involved left turns first, and []% involved right turns first.
+[]% of legs involved short sides first, and []% involved long sides first.
+
 []% of legs were something else, including [potential hilarity].
 
+### Model
 
+We ran this model, and got these fit statistics.
+
+[Table with coefficients]
+
+[Plot with observations and fitted values from the model]
+
+When the target was on the table, []
