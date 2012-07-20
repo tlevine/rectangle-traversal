@@ -68,15 +68,21 @@ participants handedness and then debriefed the participant.
 
 ### Variables
 
-#### Interventions
 Before the participant entered the experiment room, it was configured into
 one of four ways based on two two-level factors:
 
 1. target location and
 2. short leg.
 
+At the end of the experiment, handedness was collected.
+
+#### Target location
 Target location was one of "floor" or "table". Beers were placed on the floor
-in the floor condition and on the table in the table condition.
+in the floor condition and on the table in the table condition
+(figure [target_locations]).
+
+[]
+Figure [target-locations]
 
 They also had a specific placement in the horizontal axes. In both conditions,
 the beers were placed within [four inches] of the corner point. In the table
@@ -91,7 +97,37 @@ of the adjacent corners but not when they were at the opposite corner. In the
 table condition, participants should have been able to see the beers from any
 corner.
 
-#### Demographics
+#### Short leg
+
+A rectangle has four different vectors that connect opposite corners (figure
+[vectors]). These vectors correspond to the routes that we could have asked
+participants to traverse.
+
+Participants were expected to walk around the table rather than over or under
+the table. (We ignored any participants who walked through the table.)
+In these expected paths, a participant would first turn one direction (left
+or right), then traverse a leg of the table, then turn the other direction
+and traverse the remaining leg. In order to control for affects of handedness,
+we classified these four routes into two groups.
+
+1. Short leg left, long leg right: If the participant turns left first,
+    he traverses the short leg first.
+2. Short leg right, long leg left: If the participant turns left first,
+    he traverses the long leg first.
+
+These are also diagramed in figure [path types]
+
+[]
+Figure [path types]
+
+#### Handedness
 Participants were asked for their handedness, which was recorded as "left",
 "right" or "other". Data from participants with "other" handedness were
 ignored.
+
+### Model
+
+Data were transformed into four binomial variables:
+
+1. Target location (floor or table)
+2. Handness
