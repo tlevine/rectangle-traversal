@@ -39,7 +39,7 @@ corner, and an "X" was drawn on the floor at the opposite corner.
 
 Participants were recruited at a [frat party, picnic, &c.] in [place]; they were
 offered a beer in return for participation in a one-minute experiment.
-[Demographics--general age, location, &c.].
+[Demographics based on study setting--general age, location, &c.].
 
 ### Procedure
 
@@ -162,4 +162,32 @@ If any of the variables was "other", the trial was ignored.
 These four variables were modeled with bivariate analysis of variance with two
 independent variables. Since all values of "other" were ignored, all of the
 variables had exactly two levels.
+
+### Results
+
+[Some number of] people participated in the study. Here are some summary
+statistics.
+
+Regarding our interventions,
+
+* [] trials had the short leg left and the target location floor
+* [] trials had the short leg left and the target location table
+* [] trials had the short leg right and the target location floor
+* [] trials had the short leg right and the target location table
+
+```
+    Short leg   Target location | Number of trials
+    ---------   --------------- | ----------------
+    Left        Table           | 
+    Left        Floor           | 
+    Right       Table           | 
+    Right       Floor           | 
+```
+
+Regarding handedness, [] people were left-handed, [] were right-handed and
+[] were "other".
+
+[]% of legs involved left turns first, and []% involved right turns first.
+[]% of legs were something else, including [potential hilarity].
+
 
