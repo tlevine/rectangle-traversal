@@ -90,6 +90,8 @@ been able to see the beers in the floor condition when they were at either
 of the adjacent corners but not when they were at the opposite corner. In the
 table condition, participants should have been able to see the beers from any
 corner.
-the
 
 #### Demographics
+Participants were asked for their handedness, which was recorded as "left",
+"right" or "other". Data from participants with "other" handedness were
+ignored.
