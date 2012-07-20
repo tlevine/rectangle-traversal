@@ -130,9 +130,31 @@ Participants were asked for their handedness, which was recorded as "left",
 "right" or "other". Data from participants with "other" handedness were
 ignored.
 
+### Route choice
+
+Direction of each leg of travel was recorded on a form (section [whatever]) and
+then translated into a "left", "right" or "other". If participants took routes
+that did not fit neatly into "left" or "right", such as jumping over the table
+or back-tracking, the direction was marked as "other", and the trial was ignored.
+
 ### Model
 
 Data were transformed into four binomial variables:
 
 1. Target location (floor or table)
-2. Handness
+2. Direction of first leg of travel (left, right other)
+3. Direction of second leg of travel (left, right or other)
+4. Short leg matches handedness (yes, no or other)
+
+The first of these variables should be straightforward given the earlier
+definition. The second variable corresponds to the route taken to retrieve
+the beer. The third variable corresponds to the route taken to return the beer
+to the "X".
+
+The fourth variable relates two variables that were collected. One of these
+variables is handedness. The other is the "short leg" variable discussed earlier.
+That is, it's whether the table was arranged with the short leg to the left or
+the right of the "X" from the point of view of the participant. When handedness
+was "other", this variable was also "other".
+
+If any of the variables was "other", the trial was ignored.
